@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'Qasim Shirazi',
+  tagline: 'Portfolio of my various data analysis, programming skills & projects',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -27,16 +27,16 @@ export default {
       link: '/contact'
     },
     {
-      name: 'Categories',
+      name: 'Testimonials',
       link: '/categories'
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
+      name: 'Tableau Portfolio',
+      link: 'https://public.tableau.com/profile/qasim.shirazi#!/?newProfile=&activeTab=0',
       target: '_blank'
     },
     {
-      name: 'Awake+ Premium',
+      name: 'Github Projects',
       link: 'https://awake-premium-lp.netlify.com/',
       target: '_blank'
     }
