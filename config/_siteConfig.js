@@ -37,7 +37,7 @@ export default {
     },
     {
       name: 'Github Projects',
-      link: 'https://awake-premium-lp.netlify.com/',
+      link: 'https://github.com/Qshirazi',
       target: '_blank'
     }
   ],
